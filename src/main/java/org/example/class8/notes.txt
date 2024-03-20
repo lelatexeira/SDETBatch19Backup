@@ -1,0 +1,20 @@
+Break Keyword:
+Break keyword breaks a loop. We always use breaks with if conditions.
+    Once the condition is met, it stops the loop even if it has more iterations.
+Why should we break?
+    If we break we eliminate a lot of unnecessary processing by terminating the loop
+once the goal is complete.
+Continue:
+    Save resources. Continue is used to skip unnecessary calculations. If the element
+meets the condition the element is skipped
+Why should we use?
+    save resources.
+Note: Break and continue are always written with if conditions inside the loop.
+
+Break completely breaks the loop!
+Continue skips iteration! Not the entire loop
+
+2D Arrays:
+2D Array is simply multiple one D arrays combined together in the form of rows and columns.
+2D Array we use two indexes, one to specify row and the other the column.
+
