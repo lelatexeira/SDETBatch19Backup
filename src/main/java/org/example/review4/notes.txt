@@ -1,0 +1,16 @@
+Loops:
+    Loops help us repeat a block of code until a condition fails.
+    There are 4 main types of loops in Java.
+While loop:   BEST for String
+    When we don't know the number of iterations beforehand, while loop
+    is the best type in that scenario. Does not require a number! It requires boolean.
+    For example, when we search for a product in Amazon. We keep clicking next
+    button until we find it.
+Do While loop:
+    When we want to execute the body of the loop at least once, BEFORE we check the condition
+    that's when we should use the Do While loop!
+For Loop:
+    For is better choice when we know the number of iterations in advance.
+    For example, we want to print 10 times.
+Arrays: A collection of multiple variables. Every number is given a number called
+    an index, that we can use to access that variable.

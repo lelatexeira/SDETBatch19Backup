@@ -1,0 +1,34 @@
+Notes:
+1)We can click the starting bracket to check the ending
+bracket, IntelliJ will highlight the ending bracket.
+2) We can double-click inside any condition to highlight all the code
+under the condition.
+3) We can make shortcuts like Ctrl+Alt+l(Windows) or Cmd+Alt+l(Mac) to
+nicely format our code.
+Scanner class:
+Type Casting:
+Type Casting is moving the data from one data type to another.
+When we move something from a small data type to a large data type
+large data type it's called auto/widening/implicit.
+When we move something from a bigger data type to a smaller box it is called
+manual/narrowing/explicit.
+Data types from small to large:
+1) byte
+2) short
+3) int
+4) long
+5) float
+6) double
+When should we use typecasting?
+When we combine the code from different sources we might
+need to perform this type casting to make the code
+compatible.
+Relational Operators:
+Relational Operators help us compare data. They always return the results in
+the form of either True or False.
+==
+!=
+>=
+<=
+
+

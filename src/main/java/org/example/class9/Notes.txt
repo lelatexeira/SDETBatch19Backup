@@ -1,0 +1,20 @@
+Arrays:
+    Arrays are collections of multiple variables. These variables have indexes
+    which help us retrieve and store data inside an array.
+Why should we have arrays:
+    When we have a lot of data storing it inside variables is not feasible.
+Syntax:
+Approach 1
+    Datatype [] ArrayName= new DataType[];
+    int[] numbers=new int[5];
+    Approach 2:
+    Datatype [] ArrayName= {element1,element2,element3,element4}
+    int [] numbers={10,20,30,45,50};
+Enhanced for loop:
+    for(num:numbers)
+    Enhanced for loop is simplified version of normal for loop, where elements
+    are pulled from the array automatically one by one. There is no index involved
+    in this type of loop. ALWAYS USE WHEN POSSIBLE
+Nested Loops:
+    Nested loop inside another loop
+Why do we need Nested Loops?

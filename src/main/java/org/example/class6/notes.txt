@@ -1,0 +1,7 @@
+Loops in programming:
+    Loops helps us execute a block of code again and again
+    until condition is met. Once the condition is met the loops stop.
+Why should we use loops?
+
+
+
