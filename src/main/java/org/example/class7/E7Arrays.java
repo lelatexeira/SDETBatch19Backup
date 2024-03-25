@@ -1,6 +1,7 @@
 package org.example.class7;
 
 
+import java.util.Arrays;
 
 public class E7Arrays {
     public static void main(String[] args) {
@@ -12,8 +13,8 @@ public class E7Arrays {
             i++;
         }
         }
-
-    // This is neat, succinct code.
+        // This is neat, succinct code.
         // can be "sout (names[0])", line by line, not scalable
+    // TO PRINT LAST 'NAME' YOU NEED TO ADD 1 TO PRINT ALL NAMES IN ARRAY
     }
 

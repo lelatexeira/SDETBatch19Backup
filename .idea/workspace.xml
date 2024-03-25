@@ -4,187 +4,64 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93e033a0-2269-4cb0-81ad-7117980a2cd5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class1/E1Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class1/E2Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class1/E3Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class1/E4Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class1/E5Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class1/E6Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class1/FirstProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class1/PracticeVariables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class1/SyntaxProgrammer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class1/TheProgrammer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class1/TheProgrammer2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class1/VariableValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class1/notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class2/E1Strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class2/E2Strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class2/E3String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class2/E4String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class2/E5ArithmeticOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class2/E5PlusOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class2/E6ArithmeticOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class2/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class2/Task2Strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class2/Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class3/DecimalTask1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class3/DoubleComparison.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class3/E10RelationalOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class3/E11RelationalOps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class3/E12RelationalOps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class3/E13RelationalOps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class3/E14RelationalOps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class3/E15RelationalOps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class3/E16IfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class3/E17IfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class3/E18IfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class3/E19IfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class3/E1Short.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class3/E2Short.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class3/E3Short.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class3/E4Short.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class3/E5Short.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class3/E6Type.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class3/E7Type.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class3/E8Type.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class3/E9Type.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class3/HomeworkHours.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class3/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class3/Task2Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class3/Task3Perimeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class3/TemperatureCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class4/Donor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class4/E1IfElseIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class4/E2IfElseIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class4/E3IfElseIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class4/E4NestedIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class4/E5NestedIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class4/E6Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class4/E7Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class4/E8Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class4/Task1IfElseConditions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class4/Task2IfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class4/Task3IfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class4/Task4Nested.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class4/Task5Nested.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class4/Task6Nestedif.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class4/Task7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class4/notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class5/E10LogicalAnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class5/E11Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class5/E12Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class5/E1Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class5/E2Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class5/E3Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class5/E4Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class5/E5Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class5/E6Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class5/E7Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class5/E8LogicalNot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class5/E8b_LogicalOr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class5/E9LogicalOr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class5/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class5/Task10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class5/Task11HW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class5/Task1Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class5/Task2Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class5/Task3Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class5/Task4Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class5/Task4_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class5/Task5Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class5/Task6IfAnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class5/Task7HW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class5/Task8HW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class5/Task9HW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class6/E10Loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class6/E11Loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class6/E12Loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class6/E1Loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class6/E2Loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class6/E3Loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class6/E4Loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class6/E5Loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class6/E6Loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class6/E7Loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class6/E8Loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class6/E9Loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class6/Tas8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class6/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class6/Task10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class6/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class6/Task3IfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class6/Task3Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class6/Task4Loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class6/Task5Loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class6/Task6Loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class6/Task7Loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class6/Task8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class6/Task9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class6/notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class7/E10Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class7/E12Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class7/E1Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class7/E2Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class7/E3Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class7/E4Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class7/E5Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class7/E6Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class7/E7Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class7/E8Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class7/E9Arraya.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class7/Task1Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class7/Task2Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class7/Task2_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class7/Task3Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class7/Task4Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class7/Task4B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class7/Task5Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class7/Task5B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class7/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class7/Task7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class7/Task8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class7/notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class8/E1Break.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class8/E2Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class8/E2Break.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class8/E3Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class8/E3Break.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class8/E4_2DArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class8/E5_2DArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class8/E6_2DArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class8/Task1_2DArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class8/Task2_2DayArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class8/Task3_2DArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class8/notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class9/E1Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class9/E2Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class9/E3Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class9/E5Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class9/E6Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class9/E7Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class9/E8NestedLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class9/E9NestedLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class9/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/review4/E10ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/review4/E1WhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/review4/E2WhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/review4/E3WhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/review4/E4WhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/review4/E5DoWhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/review4/E6DoWhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/review4/E7ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/review4/E8ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/review4/E9ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/review4/notes.txt" afterDir="false" />
+    <list default="true" id="93e033a0-2269-4cb0-81ad-7117980a2cd5" name="Changes" comment="JavaBasics">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class10/BankUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class10/BankUserTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class10/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class10/CarTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class10/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class10/DogTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class10/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class10/PhoneTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class10/Task1iPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class10/txt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class11/E10String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class11/E11String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class11/E12String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class11/E13String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class11/E14String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class11/E1String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class11/E2String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class11/E3String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class11/E4String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class11/E5String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class11/E6String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class11/E7String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class11/E8IndexOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class11/E9String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class11/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class11/Task1String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class11/Task2IndexOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class11/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class11/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class11/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class12/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class12/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class12/E1String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class12/E2String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class12/E4String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class12/E5String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class12/E6String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class12/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class12/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class12/PrinterTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class12/Task1HW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class12/Task2HW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class12/Task3HW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class12/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class12/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class12/Task5_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class12/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class12/Task6Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class12/Task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class7/E11Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/class7/E10Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/class7/E10Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/class7/E12Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/class7/E12Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/class7/E7Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/class7/E7Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/class7/E9Arraya.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/class7/E9Arraya.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/class7/Task5Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/class7/Task5Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/class7/Task7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/class7/Task7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,6 +77,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -214,7 +92,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BankUserTester.executor": "Run",
+    "Application.CalculatorTest.executor": "Run",
+    "Application.CarTester.executor": "Run",
     "Application.DecimalTask1.executor": "Run",
+    "Application.DogTester.executor": "Run",
     "Application.Donor.executor": "Run",
     "Application.DoubleComparison.executor": "Run",
     "Application.E10Arrays.executor": "Run",
@@ -222,14 +104,19 @@
     "Application.E10LogicalAnd.executor": "Run",
     "Application.E10Loops.executor": "Run",
     "Application.E10RelationalOperators.executor": "Run",
+    "Application.E10String.executor": "Run",
+    "Application.E11Arrays.executor": "Run",
     "Application.E11Loops.executor": "Run",
     "Application.E11RelationalOps.executor": "Run",
+    "Application.E11String.executor": "Run",
     "Application.E11Switch.executor": "Run",
-    "Application.E12Arrays.executor": "Run",
+    "Application.E12Arrays.executor": "Debug",
     "Application.E12Loops.executor": "Run",
     "Application.E12RelationalOps.executor": "Run",
     "Application.E12Switch.executor": "Run",
     "Application.E13RelationalOps.executor": "Run",
+    "Application.E13String.executor": "Run",
+    "Application.E14String.executor": "Run",
     "Application.E15RelationalOps.executor": "Run",
     "Application.E16IfElse.executor": "Run",
     "Application.E17IfElse.executor": "Run",
@@ -239,6 +126,7 @@
     "Application.E1Break.executor": "Run",
     "Application.E1Scanner.executor": "Run",
     "Application.E1Short.executor": "Debug",
+    "Application.E1String.executor": "Run",
     "Application.E1Strings.executor": "Run",
     "Application.E1Variables.executor": "Run",
     "Application.E1WhileLoop.executor": "Debug",
@@ -249,6 +137,7 @@
     "Application.E2Loops.executor": "Run",
     "Application.E2Scanner.executor": "Run",
     "Application.E2Short.executor": "Run",
+    "Application.E2String.executor": "Run",
     "Application.E2Strings.executor": "Run",
     "Application.E2Variables.executor": "Run",
     "Application.E2WhileLoop.executor": "Run",
@@ -274,6 +163,7 @@
     "Application.E5NestedIf.executor": "Run",
     "Application.E5Scanner.executor": "Run",
     "Application.E5Short.executor": "Run",
+    "Application.E5String.executor": "Run",
     "Application.E5Variables.executor": "Run",
     "Application.E5_2DArrays.executor": "Run",
     "Application.E6ArithmeticOperator.executor": "Run",
@@ -282,6 +172,7 @@
     "Application.E6DoWhileLoop.executor": "Run",
     "Application.E6Loops.executor": "Debug",
     "Application.E6Scanner.executor": "Run",
+    "Application.E6String.executor": "Run",
     "Application.E6Type.executor": "Run",
     "Application.E6_2DArrays.executor": "Run",
     "Application.E7Array.executor": "Run",
@@ -289,9 +180,11 @@
     "Application.E7ForLoop.executor": "Debug",
     "Application.E7Loops.executor": "Run",
     "Application.E7Scanner.executor": "Run",
+    "Application.E7String.executor": "Debug",
     "Application.E7Type.executor": "Run",
     "Application.E8Arrays.executor": "Run",
     "Application.E8ForLoop.executor": "Run",
+    "Application.E8IndexOf.executor": "Run",
     "Application.E8LogicalNot.executor": "Run",
     "Application.E8Loops.executor": "Run",
     "Application.E8NestedLoop.executor": "Run",
@@ -303,48 +196,59 @@
     "Application.E9LogicalOr.executor": "Run",
     "Application.E9Loops.executor": "Run",
     "Application.E9NestedLoop.executor": "Debug",
+    "Application.E9String.executor": "Run",
     "Application.E9Type.executor": "Run",
     "Application.FirstProgram.executor": "Run",
     "Application.HomeworkHours.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.PracticeVariables.executor": "Run",
+    "Application.PrinterTester.executor": "Run",
     "Application.SyntaxProgrammer.executor": "Run",
     "Application.Tas8.executor": "Run",
     "Application.Task1.executor": "Run",
     "Application.Task10.executor": "Debug",
     "Application.Task11HW.executor": "Run",
     "Application.Task1Arrays.executor": "Run",
+    "Application.Task1HW.executor": "Run",
     "Application.Task1IfElseConditions.executor": "Run",
     "Application.Task1Scanner.executor": "Run",
+    "Application.Task1String.executor": "Run",
     "Application.Task1_2DArrays.executor": "Run",
     "Application.Task2.executor": "Run",
     "Application.Task2Arrays.executor": "Run",
+    "Application.Task2HW.executor": "Run",
     "Application.Task2IfElse.executor": "Run",
+    "Application.Task2IndexOf.executor": "Debug",
     "Application.Task2Scanner.executor": "Run",
     "Application.Task2Square.executor": "Run",
     "Application.Task2Strings.executor": "Run",
     "Application.Task2_2.executor": "Run",
     "Application.Task2_2DayArrays.executor": "Run",
+    "Application.Task3.executor": "Run",
     "Application.Task3Arrays.executor": "Run",
+    "Application.Task3HW.executor": "Run",
     "Application.Task3IfElse.executor": "Run",
     "Application.Task3Perimeter.executor": "Run",
     "Application.Task3Scanner.executor": "Run",
     "Application.Task3Switch.executor": "Run",
+    "Application.Task4.executor": "Run",
     "Application.Task4Arrays.executor": "Run",
-    "Application.Task4B.executor": "Debug",
+    "Application.Task4B.executor": "Run",
     "Application.Task4Loops.executor": "Run",
     "Application.Task4Nested.executor": "Run",
     "Application.Task4Scanner.executor": "Run",
     "Application.Task4_4.executor": "Debug",
-    "Application.Task5.executor": "Debug",
+    "Application.Task5.executor": "Run",
     "Application.Task5Arrays.executor": "Run",
     "Application.Task5B.executor": "Run",
     "Application.Task5Loops.executor": "Run",
     "Application.Task5Nested.executor": "Run",
     "Application.Task5Scanner.executor": "Run",
+    "Application.Task5_5.executor": "Run",
     "Application.Task6.executor": "Run",
     "Application.Task6IfAnd.executor": "Run",
     "Application.Task6Loops.executor": "Run",
+    "Application.Task6Tester.executor": "Run",
     "Application.Task7.executor": "Run",
     "Application.Task7HW.executor": "Run",
     "Application.Task7IfAndOr.executor": "Run",
@@ -362,7 +266,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -370,13 +274,13 @@
       <recent name="$PROJECT_DIR$/src/main/java/org/example/class1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task5B">
-    <configuration name="E12Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.class7.E12Arrays" />
+  <component name="RunManager" selected="Application.Task6Tester">
+    <configuration name="CalculatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Class12.CalculatorTest" />
       <module name="SDETJavaBatch19" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.class7.*" />
+          <option name="PATTERN" value="org.example.Class12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -384,12 +288,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E4Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.class7.E4Arrays" />
+    <configuration name="PrinterTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Class12.PrinterTester" />
       <module name="SDETJavaBatch19" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.class7.*" />
+          <option name="PATTERN" value="org.example.Class12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -397,12 +301,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E6Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.class7.E6Arrays" />
+    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Class12.Task5" />
       <module name="SDETJavaBatch19" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.class7.*" />
+          <option name="PATTERN" value="org.example.Class12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -410,12 +314,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E9Arraya" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.class7.E9Arraya" />
+    <configuration name="Task5_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Class12.Task5_5" />
       <module name="SDETJavaBatch19" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.class7.*" />
+          <option name="PATTERN" value="org.example.Class12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -423,12 +327,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task5B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.class7.Task5B" />
+    <configuration name="Task6Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Class12.Task6Tester" />
       <module name="SDETJavaBatch19" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.class7.*" />
+          <option name="PATTERN" value="org.example.Class12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -438,11 +342,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task5B" />
-        <item itemvalue="Application.E12Arrays" />
-        <item itemvalue="Application.E6Arrays" />
-        <item itemvalue="Application.E4Arrays" />
-        <item itemvalue="Application.E9Arraya" />
+        <item itemvalue="Application.Task6Tester" />
+        <item itemvalue="Application.PrinterTester" />
+        <item itemvalue="Application.CalculatorTest" />
+        <item itemvalue="Application.Task5_5" />
+        <item itemvalue="Application.Task5" />
       </list>
     </recent_temporary>
   </component>
@@ -462,7 +366,28 @@
       <option name="presentableId" value="Default" />
       <updated>1709433892135</updated>
     </task>
+    <task id="LOCAL-00001" summary="JavaBasics">
+      <option name="closed" value="true" />
+      <created>1710894173533</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710894173533</updated>
+    </task>
+    <task id="LOCAL-00002" summary="JavaBasics">
+      <option name="closed" value="true" />
+      <created>1710894312539</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710894312539</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="JavaBasics" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaBasics" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>

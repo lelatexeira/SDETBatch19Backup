@@ -1,0 +1,3 @@
+String class:
+    String is the most widely used in Java. It contains a lot of Methods which can help us
+    process text very easily.

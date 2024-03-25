@@ -1,0 +1,12 @@
+OOPS- Object Oriented Programming System
+    It's just a way of writing code. Like we have many techniques of fighting(Kung Fu), we
+    have many techniques to write large amounts of code.
+Why should we learn OOPs?
+    1) Helps us reduce the code duplications.
+    2) Helps write dynamic code(same code doing different things).
+    3) Helps write Modular code.
+    4) It helps write secure code.
+Class:
+    A Class represents objects which have similar properties and behavior.
+    We use these classes to create things quickly and efficiently.
+    It's like a design/blueprint that helps us build objects quickly.
